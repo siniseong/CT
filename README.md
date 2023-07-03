@@ -1,1 +1,4 @@
-### 코드업과 백준 그리고 프로그래머스
+# Using Language : <img src="https://img.shields.io/badge/C-1414A0?style=flat-square&logo=c&logoColor=white"/>
+### Codeup
+### Baekjoon
+### Programmers
