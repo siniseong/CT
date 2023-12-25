@@ -29,7 +29,7 @@ int main() {
  
  
         prize = max * 100;
-    }
+    } 
  
  
     printf("%d", prize);
