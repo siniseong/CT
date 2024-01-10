@@ -1,2 +1,1 @@
-# C
-### Coding Test 
+# C-CT
